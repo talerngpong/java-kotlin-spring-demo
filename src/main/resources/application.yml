@@ -1,0 +1,7 @@
+sample-conf:
+  title: sampleTitle
+  sample-list:
+    - key: firstKey
+      value: firstValue
+    - key: secondKey
+      value: secondValue
